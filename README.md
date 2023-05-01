@@ -1,5 +1,4 @@
 # Hello there!
-<br>
 
 ## Welcome to my profile feel free to check out my project or hit me up if you want to discuss something ;)
 
